@@ -5,10 +5,10 @@ Everything here is done following [this course on udemy](https://www.udemy.com/c
 
 
 ### Terminology
-- cloning: a fancy way to say copying the remote repo to your local machine
-- staging: preparing a file/directory for sending it to the repository.
-- commit: Sending a staged files.
-- push: send committed changes to the remote repo.
+- *cloning*: a fancy way to say copying the remote repo to your local machine
+- *staging*: preparing a file/directory for sending it to the repository.
+- *commit*: Sending a staged files.
+- *push*: send committed changes to the remote repo.
 
 
 ### So far I learned
